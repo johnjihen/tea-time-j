@@ -1,0 +1,23 @@
+{
+  "name": "tea-time-j",
+  "version": "1.0.0",
+  "description": "tea-time-j",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnjihen/tea-time-j.git"
+  },
+  "dependencies": {
+    "tea-time-x": "1.0.0",
+    "minti_fulkerson": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnjihen/tea-time-j/issues"
+  },
+  "homepage": "https://github.com/johnjihen/tea-time-j#readme"
+}
